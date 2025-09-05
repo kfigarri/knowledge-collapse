@@ -1,0 +1,3502 @@
+[
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": " What can murtis be translated as?",
+    "choices": [
+      "Offerings",
+      "Prayers",
+      "Apparitions",
+      "Idols"
+    ],
+    "correct_answer_index": 3,
+    "probabilities": [
+      0.07044649559102267,
+      0.008583539572834278,
+      0.060257018272315846,
+      0.004281604749954875
+    ],
+    "loglikelihoods": [
+      0.07044649559102267,
+      0.008583539572834278,
+      0.060257018272315846,
+      0.004281604749954875
+    ],
+    "is_greedy": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "predicted_index": 0,
+    "is_correct": false,
+    "actual_answer": "The most common translation of \u201cmurtis\u201d is \u201coffering\u201d or \u201cprayer.\u201d It\u2019s a multifaceted concept deeply intertwined with religious practice and belief, often encompassing offerings and rituals designed to honor deities and seek blessings or divine assistance.  It\u2019s a complex and deeply interwoven concept with roots in various traditions",
+    "judge_answer": 1,
+    "entailment_score": 0.3129
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": " Naturalists who concentrated on natural elements and processes are associated with which of the following?",
+    "choices": [
+      "Daoism",
+      "Yin-Yang School",
+      "Mengzi",
+      "Humanistic Buddhism"
+    ],
+    "correct_answer_index": 1,
+    "probabilities": [
+      0.19855985714790442,
+      0.17277171312425108,
+      0.1328641203017634,
+      0.9085498093373614
+    ],
+    "loglikelihoods": [
+      0.19855985714790442,
+      0.17277171312425108,
+      0.1328641203017634,
+      0.9085498093373614
+    ],
+    "is_greedy": [
+      false,
+      false,
+      false,
+      true
+    ],
+    "predicted_index": 3,
+    "is_correct": false,
+    "actual_answer": "Humanistic Buddhism",
+    "judge_answer": 1,
+    "entailment_score": 0.0281
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": " When was the first Buddhist temple constructed in Japan?",
+    "choices": [
+      "325 CE",
+      "119 CE",
+      "451 CE",
+      "596 CE"
+    ],
+    "correct_answer_index": 3,
+    "probabilities": [
+      0.3791866335527134,
+      0.11898230273341297,
+      0.9772074581104071,
+      0.29976244786858025
+    ],
+    "loglikelihoods": [
+      0.3791866335527134,
+      0.11898230273341297,
+      0.9772074581104071,
+      0.29976244786858025
+    ],
+    "is_greedy": [
+      false,
+      false,
+      true,
+      false
+    ],
+    "predicted_index": 2,
+    "is_correct": false,
+    "actual_answer": "451 CE",
+    "judge_answer": 1,
+    "entailment_score": 0.0095
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": " What is the name of the ten day New Year festival that celebrated Babylon's culture?",
+    "choices": [
+      "Akitu",
+      "Wag and Thoth",
+      "Bast",
+      "Nehebkau"
+    ],
+    "correct_answer_index": 0,
+    "probabilities": [
+      0.9642004507144374,
+      0.06415393129777772,
+      3.1590738558406883e-07,
+      0.16699047143581774
+    ],
+    "loglikelihoods": [
+      0.9642004507144374,
+      0.06415393129777772,
+      3.1590738558406883e-07,
+      0.16699047143581774
+    ],
+    "is_greedy": [
+      true,
+      false,
+      false,
+      false
+    ],
+    "predicted_index": 0,
+    "is_correct": true,
+    "actual_answer": "Akitu",
+    "judge_answer": 3,
+    "entailment_score": 0.9795
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": "Which of the following terms denote the Japanese art of flower arranging?",
+    "choices": [
+      "Zazen",
+      "Tariki",
+      "Kami",
+      "Ikebana"
+    ],
+    "correct_answer_index": 3,
+    "probabilities": [
+      0.035411544178903576,
+      0.0005084133790454156,
+      0.009053943678736687,
+      0.8787057305028062
+    ],
+    "loglikelihoods": [
+      0.035411544178903576,
+      0.0005084133790454156,
+      0.009053943678736687,
+      0.8787057305028062
+    ],
+    "is_greedy": [
+      false,
+      false,
+      false,
+      true
+    ],
+    "predicted_index": 3,
+    "is_correct": true,
+    "actual_answer": "Ikebana",
+    "judge_answer": 3,
+    "entailment_score": 0.9833
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": " Guru Nanak and his successors instructed the use of particular Sikh Ragas in order to promote which of the following?",
+    "choices": [
+      "Harmony and balance",
+      "Devotion and piety",
+      "Love and passion",
+      "Goodwill and love"
+    ],
+    "correct_answer_index": 0,
+    "probabilities": [
+      0.7399825852019251,
+      0.6874793722075938,
+      0.16899783816089203,
+      0.12541103489998792
+    ],
+    "loglikelihoods": [
+      0.7399825852019251,
+      0.6874793722075938,
+      0.16899783816089203,
+      0.12541103489998792
+    ],
+    "is_greedy": [
+      true,
+      false,
+      false,
+      false
+    ],
+    "predicted_index": 0,
+    "is_correct": true,
+    "actual_answer": "Devotion and piety",
+    "judge_answer": 1,
+    "entailment_score": 0.0317
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": " Guru Nanak used what term to denote the \"divine word\" as part of divine revelation?",
+    "choices": [
+      "Shabad",
+      "Khalse",
+      "Nam",
+      "Guru"
+    ],
+    "correct_answer_index": 0,
+    "probabilities": [
+      0.2826428472928353,
+      0.006415413058048735,
+      0.0017399356001988053,
+      0.7762265801429749
+    ],
+    "loglikelihoods": [
+      0.2826428472928353,
+      0.006415413058048735,
+      0.0017399356001988053,
+      0.7762265801429749
+    ],
+    "is_greedy": [
+      false,
+      false,
+      false,
+      true
+    ],
+    "predicted_index": 3,
+    "is_correct": false,
+    "actual_answer": "Guru\n...as a divine word, a sacred utterance believed to hold immense power and divine significance. Its precise meaning and precise pronunciation have been a subject of considerable debate amongst scholars for centuries, with various traditions attributing different interpretations to its use.  Some believe it\n\u0923\u093f\u0923\u093f\u0923\u093f\u0923\u093f\u0923\u093f\u0923\u093f\u0923\u093f\u0923\u093f\u0923\u093f\u0923\u093f\u0923\u093f",
+    "judge_answer": 1,
+    "entailment_score": 0.0372
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": "What is the mi'raj?",
+    "choices": [
+      "Muhammad's miraculous ascent to heaven",
+      "Muhammad's migration to Mecca",
+      "Muhammad's first community in Mecca",
+      "Muhammad's revelations of the Qur'an"
+    ],
+    "correct_answer_index": 0,
+    "probabilities": [
+      0.16579212902943963,
+      0.011097992183622658,
+      0.12503166744916888,
+      0.04501129713029386
+    ],
+    "loglikelihoods": [
+      0.16579212902943963,
+      0.011097992183622658,
+      0.12503166744916888,
+      0.04501129713029386
+    ],
+    "is_greedy": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "predicted_index": 0,
+    "is_correct": true,
+    "actual_answer": "The most accepted and widely accepted explanation for the term \"mi\u2019raj\" is that it refers to a miraculous ascent of the Prophet Muhammad ( peace be upon him ) from the grave to heaven. It\u2019s a complex and deeply revered concept in Islamic tradition, deeply intertwined with the belief that\n\u0923\u093f\u0923\u093f\u0923\u093f\u0923\u093f\u0923\u093f",
+    "judge_answer": 2,
+    "entailment_score": 0.0397
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": "What is the name of the most famous dharmashastras, which probably dates from around the first century?",
+    "choices": [
+      "Laws of Dharma",
+      "Laws of Karma",
+      "Laws of Vishnu",
+      "Laws of Manu"
+    ],
+    "correct_answer_index": 3,
+    "probabilities": [
+      0.04859405068293355,
+      0.010454620421121448,
+      0.13419047461147007,
+      0.7201124831645
+    ],
+    "loglikelihoods": [
+      0.04859405068293355,
+      0.010454620421121448,
+      0.13419047461147007,
+      0.7201124831645
+    ],
+    "is_greedy": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "predicted_index": 3,
+    "is_correct": true,
+    "actual_answer": "Laws of Manu",
+    "judge_answer": 3,
+    "entailment_score": 0.9894
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": "What does the term \"Qur'an\" literally mean?",
+    "choices": [
+      "The Holy Book",
+      "The Narrative",
+      "The Recitation",
+      "The Pillars"
+    ],
+    "correct_answer_index": 2,
+    "probabilities": [
+      0.1244308981536852,
+      1.1011306132439636e-05,
+      0.0003510919988782892,
+      0.00015343195542050165
+    ],
+    "loglikelihoods": [
+      0.1244308981536852,
+      1.1011306132439636e-05,
+      0.0003510919988782892,
+      0.00015343195542050165
+    ],
+    "is_greedy": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "predicted_index": 0,
+    "is_correct": false,
+    "actual_answer": "The word \u201cQur\u2019an\u201d literally means \u201cthe Revelation\u201d in Arabic. It refers to a collection of revelations revealed to the Prophet Muhammad, considered the final and most important revelation in Islam.",
+    "judge_answer": 1,
+    "entailment_score": 0.037
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": " Mani referred to God by which of the following names?",
+    "choices": [
+      "Mother of Light",
+      "Father of Goodness",
+      "Ineffable Lover",
+      "Eternal Spirit"
+    ],
+    "correct_answer_index": 1,
+    "probabilities": [
+      0.2153596330746178,
+      0.31908076181734085,
+      0.06331336180925917,
+      0.02099340008400248
+    ],
+    "loglikelihoods": [
+      0.2153596330746178,
+      0.31908076181734085,
+      0.06331336180925917,
+      0.02099340008400248
+    ],
+    "is_greedy": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "predicted_index": 1,
+    "is_correct": true,
+    "actual_answer": "The correct answer is **Mother of Light**.",
+    "judge_answer": 1,
+    "entailment_score": 0.0034
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": " Which tradition is known to promote \"gradual enlightenment\"?",
+    "choices": [
+      "Bushido",
+      "Shinto",
+      "Nichiren",
+      "Soto Zen"
+    ],
+    "correct_answer_index": 3,
+    "probabilities": [
+      0.043996064222554504,
+      0.9000690050999633,
+      0.09193145201708,
+      0.2935838035725968
+    ],
+    "loglikelihoods": [
+      0.043996064222554504,
+      0.9000690050999633,
+      0.09193145201708,
+      0.2935838035725968
+    ],
+    "is_greedy": [
+      false,
+      true,
+      false,
+      false
+    ],
+    "predicted_index": 1,
+    "is_correct": false,
+    "actual_answer": "Shinto",
+    "judge_answer": 1,
+    "entailment_score": 0.0105
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": "What is the communal meal offered at the place of worship called in Sikhism?",
+    "choices": [
+      "Sangat",
+      "Langar",
+      "Gurdwara",
+      "Panth"
+    ],
+    "correct_answer_index": 1,
+    "probabilities": [
+      0.10246661667069051,
+      0.001460835107950526,
+      0.01128075452085741,
+      0.0008018444139808493
+    ],
+    "loglikelihoods": [
+      0.10246661667069051,
+      0.001460835107950526,
+      0.01128075452085741,
+      0.0008018444139808493
+    ],
+    "is_greedy": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "predicted_index": 0,
+    "is_correct": false,
+    "actual_answer": "The correct answer is **Langar**.\n\nThe Langar is a central part of Sikh worship and a significant communal meal offered daily at Sikh places of worship. It\u2019s a deeply ingrained tradition rooted in the concept of selfless service and community unity.",
+    "judge_answer": 3,
+    "entailment_score": 0.002
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": "To which tradition do the anti-Han rebel group known as the Celestial Masters belong?",
+    "choices": [
+      "Buddhism",
+      "Daoism",
+      "Confucianism",
+      "Shamanism"
+    ],
+    "correct_answer_index": 1,
+    "probabilities": [
+      0.8730705911947552,
+      0.05503331277255321,
+      0.12103146413770698,
+      0.6383845544697303
+    ],
+    "loglikelihoods": [
+      0.8730705911947552,
+      0.05503331277255321,
+      0.12103146413770698,
+      0.6383845544697303
+    ],
+    "is_greedy": [
+      true,
+      false,
+      false,
+      false
+    ],
+    "predicted_index": 0,
+    "is_correct": false,
+    "actual_answer": "Buddhism",
+    "judge_answer": 1,
+    "entailment_score": 0.023
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": "What does the word \"Islam\" mean in Arabic?",
+    "choices": [
+      "Worship",
+      "Submission",
+      "Obedience",
+      "Faith"
+    ],
+    "correct_answer_index": 1,
+    "probabilities": [
+      0.017811192388280866,
+      3.635801249401993e-06,
+      0.004979791623873094,
+      4.591546530718915e-05
+    ],
+    "loglikelihoods": [
+      0.017811192388280866,
+      3.635801249401993e-06,
+      0.004979791623873094,
+      4.591546530718915e-05
+    ],
+    "is_greedy": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "predicted_index": 0,
+    "is_correct": false,
+    "actual_answer": "The most accurate answer is **Worship / Submission / Obedience / Faith**.\n\nThe word \u2018Islam\u2019 itself is a complex concept, deeply rooted in the practice of worship and devotion.  It\u2019s a complex idea encompassing a profound sense of responsibility and a commitment to God\u2019s will, rooted in the belief",
+    "judge_answer": 1,
+    "entailment_score": 0.1204
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": "What does the term anatman mean?",
+    "choices": [
+      "Suffering",
+      "Soul",
+      "Impermanence",
+      "No-self"
+    ],
+    "correct_answer_index": 3,
+    "probabilities": [
+      0.02811789640488153,
+      0.0002205398923251778,
+      0.004729754318055863,
+      0.02492753565983881
+    ],
+    "loglikelihoods": [
+      0.02811789640488153,
+      0.0002205398923251778,
+      0.004729754318055863,
+      0.02492753565983881
+    ],
+    "is_greedy": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "predicted_index": 0,
+    "is_correct": false,
+    "actual_answer": "The most common understanding of \u201canatta\u201d in Buddhist philosophy is **no-self or impermanence**. It\u2019s a complex concept deeply intertwined with the understanding of suffering and the nature of reality, and its precise meaning is fiercely debated. It\u2019s not simply a lack of a permanent, fixed self, but",
+    "judge_answer": 2,
+    "entailment_score": 0.0127
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": " What genre of Sikh literature is denoted by the term janam-sakhis?",
+    "choices": [
+      "Spiritual narratives",
+      "Redemption narratives",
+      "Birth narratives",
+      "Theological narratives"
+    ],
+    "correct_answer_index": 2,
+    "probabilities": [
+      0.6229108315532094,
+      0.2969471717223283,
+      0.006513634692872184,
+      0.03552013205881515
+    ],
+    "loglikelihoods": [
+      0.6229108315532094,
+      0.2969471717223283,
+      0.006513634692872184,
+      0.03552013205881515
+    ],
+    "is_greedy": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "predicted_index": 0,
+    "is_correct": false,
+    "actual_answer": "\u2026are believed to be divinely inspired and intended to impart spiritual knowledge and guidance to the devout. These narratives often incorporate elements of mythology and historical events, but their primary purpose is to reveal God\u2019s plan for humanity and to offer a glimpse into the divine purpose of life and death.  The narrative structure is remarkably",
+    "judge_answer": 1,
+    "entailment_score": 0.014
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": "Pure Land Buddhism belongs to which school?",
+    "choices": [
+      "Vajrayana",
+      "Theravada",
+      "Mahayana",
+      "Mahavira"
+    ],
+    "correct_answer_index": 2,
+    "probabilities": [
+      0.5176031629395615,
+      0.07924754105858264,
+      0.8151767914581296,
+      0.21526130872428703
+    ],
+    "loglikelihoods": [
+      0.5176031629395615,
+      0.07924754105858264,
+      0.8151767914581296,
+      0.21526130872428703
+    ],
+    "is_greedy": [
+      false,
+      false,
+      true,
+      false
+    ],
+    "predicted_index": 2,
+    "is_correct": true,
+    "actual_answer": "Mahayavana.",
+    "judge_answer": 2,
+    "entailment_score": 0.9609
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": " Which Jaina group only allows women to lead a life of semi-renunciation?",
+    "choices": [
+      "Svetambara",
+      "Jina",
+      "Agama",
+      "Digambara"
+    ],
+    "correct_answer_index": 3,
+    "probabilities": [
+      0.4127068266574872,
+      0.18744208048341546,
+      0.06321888558752321,
+      0.04063048299673506
+    ],
+    "loglikelihoods": [
+      0.4127068266574872,
+      0.18744208048341546,
+      0.06321888558752321,
+      0.04063048299673506
+    ],
+    "is_greedy": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "predicted_index": 0,
+    "is_correct": false,
+    "actual_answer": "Jaina \n\n\u2026is a complex and deeply ingrained aspect of Buddhist practice, deeply intertwined with the understanding of emptiness and the recognition of the inherent lack of self.  It\u2019s a complex practice, often interpreted as a form of detachment and detachment from worldly desires, though its precise nature and its precise purpose have been",
+    "judge_answer": 1,
+    "entailment_score": 0.2115
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": "What is the most important prayer in Judaism?",
+    "choices": [
+      "The Shema",
+      "The Sefirot",
+      "Deuteronomy",
+      "The Decalogue"
+    ],
+    "correct_answer_index": 0,
+    "probabilities": [
+      0.486899619518488,
+      0.122391135315359,
+      0.014000347249612397,
+      0.007543376205939411
+    ],
+    "loglikelihoods": [
+      0.486899619518488,
+      0.122391135315359,
+      0.014000347249612397,
+      0.007543376205939411
+    ],
+    "is_greedy": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "predicted_index": 0,
+    "is_correct": true,
+    "actual_answer": "The most important prayer in Judaism is widely considered to be the Shema, often referred to as the Sefirot or the Decalogue. It\u2019s a foundational text, deeply intertwined with the understanding of God\u2019s covenant with the Jewish people and their commitment to holiness.\n...in the Temple . It",
+    "judge_answer": 2,
+    "entailment_score": 0.0019
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": " The socio-political alliance between the kshatriyas and the shramanas was rooted in their shared opposition to which of the following?",
+    "choices": [
+      "Brahminic orthodoxy",
+      "Legalistic asceticism",
+      "Bhakti devotionals",
+      "Unorthodox practices"
+    ],
+    "correct_answer_index": 0,
+    "probabilities": [
+      0.8214402650020849,
+      0.8557453864372044,
+      0.15080583289426724,
+      0.004669677802212257
+    ],
+    "loglikelihoods": [
+      0.8214402650020849,
+      0.8557453864372044,
+      0.15080583289426724,
+      0.004669677802212257
+    ],
+    "is_greedy": [
+      false,
+      true,
+      false,
+      false
+    ],
+    "predicted_index": 1,
+    "is_correct": false,
+    "actual_answer": "Brahminic orthodoxy\n\n\u2026was a significant influence on the development of Hindu practice.  The practice of \u2018sankrit\u0101\u2019, the practice of performing elaborate rituals and elaborate ceremonies, was largely predicated on the principles of devotion and devotion, mirroring the practices of the time.  The practice\u2019s influence spread rapidly,",
+    "judge_answer": 2,
+    "entailment_score": 0.159
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": " Which early battle led to the conversion of Mecca?",
+    "choices": [
+      "The Battle of Uhud",
+      "The Battle of Camel",
+      "The Battle of the Trench",
+      "The Battle of Badr"
+    ],
+    "correct_answer_index": 2,
+    "probabilities": [
+      0.996842977594728,
+      0.06285970360712935,
+      0.38969753423181996,
+      0.2907922704417623
+    ],
+    "loglikelihoods": [
+      0.996842977594728,
+      0.06285970360712935,
+      0.38969753423181996,
+      0.2907922704417623
+    ],
+    "is_greedy": [
+      true,
+      false,
+      false,
+      false
+    ],
+    "predicted_index": 0,
+    "is_correct": false,
+    "actual_answer": "The Battle of Uhud.",
+    "judge_answer": 1,
+    "entailment_score": 0.0073
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": " What interior discipline must be adopted to achieve spiritual liberation within Sikhism?",
+    "choices": [
+      "Remembering the Divine Name",
+      "Meditating on the sacred hymns",
+      "Remembering that death is inevitable",
+      "Meditating on the goodness of the created world"
+    ],
+    "correct_answer_index": 0,
+    "probabilities": [
+      0.11992036280250769,
+      0.15749733467864596,
+      0.059495998139762064,
+      0.06407849830026273
+    ],
+    "loglikelihoods": [
+      0.11992036280250769,
+      0.15749733467864596,
+      0.059495998139762064,
+      0.06407849830026273
+    ],
+    "is_greedy": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "predicted_index": 1,
+    "is_correct": false,
+    "actual_answer": "The correct answer is **Remembering the Divine Name** or **Meditating on the sacred hymns**.\n\nThe Sikh tradition emphasizes a deep and continuous practice of remembering the divine name \u2013 the one God\u2019s name \u2013 as a cornerstone of spiritual practice. This is a practice rooted in the belief that this divine name holds the",
+    "judge_answer": 2,
+    "entailment_score": 0.0151
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": " During Japan's occupation of Korea (1910-1945), which of the following was imposed upon the Koreans?",
+    "choices": [
+      "Confucianism",
+      "Buddhism",
+      "Christianity",
+      "Daoism"
+    ],
+    "correct_answer_index": 0,
+    "probabilities": [
+      0.6600888454043449,
+      0.2813946827379616,
+      0.5284553134777789,
+      0.018115751229715454
+    ],
+    "loglikelihoods": [
+      0.6600888454043449,
+      0.2813946827379616,
+      0.5284553134777789,
+      0.018115751229715454
+    ],
+    "is_greedy": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "predicted_index": 0,
+    "is_correct": true,
+    "actual_answer": "The correct answer is **Confucianism**.\n\nDuring the Japanese occupation, Confucianism was systematically suppressed, and its influence gradually faded as the Japanese systematically dismantled traditional Chinese practices and institutions.  The Japanese government actively discouraged Confucian practices, viewing them as a threat to their own cultural dominance.  Buddhism and Christianity were",
+    "judge_answer": 2,
+    "entailment_score": 0.0021
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": "What is the meaning of the Punjabi word \"Sikh\"?",
+    "choices": [
+      "Disciple",
+      "Faithful",
+      "Devotee",
+      "Enlightened"
+    ],
+    "correct_answer_index": 0,
+    "probabilities": [
+      0.053353281318143375,
+      0.004108290112992963,
+      0.3008535734000376,
+      0.017887825419304726
+    ],
+    "loglikelihoods": [
+      0.053353281318143375,
+      0.004108290112992963,
+      0.3008535734000376,
+      0.017887825419304726
+    ],
+    "is_greedy": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "predicted_index": 2,
+    "is_correct": false,
+    "actual_answer": "The most widely accepted meaning of the Punjabi word \"Sikh\" is \u201cdisciple\u201d or \u201cfaithful.\u201d It\u2019s a term of respect and devotion, often used to denote a devoted follower of a Guru or spiritual leader.  The precise meaning is deeply rooted in the concept of devotion and commitment to a divine cause",
+    "judge_answer": 2,
+    "entailment_score": 0.04
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": " Which of the following shuns politics?",
+    "choices": [
+      "The sages of the Zhuangzi",
+      "The Songs of the South",
+      "The Duke of Zhou",
+      "The Confucian \"sage kings\""
+    ],
+    "correct_answer_index": 0,
+    "probabilities": [
+      0.08031512770114464,
+      0.01763805535523664,
+      0.11918675050475518,
+      0.7612157590409226
+    ],
+    "loglikelihoods": [
+      0.08031512770114464,
+      0.01763805535523664,
+      0.11918675050475518,
+      0.7612157590409226
+    ],
+    "is_greedy": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "predicted_index": 3,
+    "is_correct": false,
+    "actual_answer": "The Confucian \u201csage kings\u201d are the best answer.\n\nThe Confucian \u201csage kings\u201d \u2013 particularly those of the Tang Dynasty \u2013 were notoriously secretive and rarely granted official positions, preferring to remain in relative obscurity. Their actions and teachings were often shrouded in mystery, and their influence was largely predicated on their own\n\u2026and",
+    "judge_answer": 1,
+    "entailment_score": 0.0029
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": "What does the Hebrew word mashiach mean?",
+    "choices": [
+      "Anointed one",
+      "God",
+      "Prophet",
+      "The line of David"
+    ],
+    "correct_answer_index": 0,
+    "probabilities": [
+      0.009350117463011355,
+      4.5666604364669183e-07,
+      0.00019093259272879597,
+      0.007793030057224452
+    ],
+    "loglikelihoods": [
+      0.009350117463011355,
+      4.5666604364669183e-07,
+      0.00019093259272879597,
+      0.007793030057224452
+    ],
+    "is_greedy": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "predicted_index": 0,
+    "is_correct": true,
+    "actual_answer": "The most widely accepted meaning of the Hebrew word *mashiach* is \u201canointed one\u201d or \u201cGod.\u201d It\u2019s often used in the context of the messianic era, referring to a figure destined to bring about God\u2019s reign and usher in a new era of peace and restoration.  It\u2019",
+    "judge_answer": 2,
+    "entailment_score": 0.0036
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": "According to Jaina traditions, what does the term ajiva mean?",
+    "choices": [
+      "Soul",
+      "Sound",
+      "Non-matter",
+      "Non-soul"
+    ],
+    "correct_answer_index": 3,
+    "probabilities": [
+      0.04970142990350723,
+      1.7141874195658602e-06,
+      0.06436511496587215,
+      0.020930212144862938
+    ],
+    "loglikelihoods": [
+      0.04970142990350723,
+      1.7141874195658602e-06,
+      0.06436511496587215,
+      0.020930212144862938
+    ],
+    "is_greedy": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "predicted_index": 2,
+    "is_correct": false,
+    "actual_answer": "Soul",
+    "judge_answer": 1,
+    "entailment_score": 0.003
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": " In the Japanese Zen tradition, what is zazen?",
+    "choices": [
+      "A collection of statues",
+      "Veneration of ancestors",
+      "Seated meditation",
+      "Funeral rituals"
+    ],
+    "correct_answer_index": 2,
+    "probabilities": [
+      0.2813257987505293,
+      0.13839997935199014,
+      0.16740859189516638,
+      0.024405498138663988
+    ],
+    "loglikelihoods": [
+      0.2813257987505293,
+      0.13839997935199014,
+      0.16740859189516638,
+      0.024405498138663988
+    ],
+    "is_greedy": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "predicted_index": 0,
+    "is_correct": false,
+    "actual_answer": "The most accurate and widely accepted understanding of zazen in Japanese Zen Buddhism is as a form of seated meditation, characterized by a focused, present-moment awareness of the present and a deep sense of interconnectedness with all things. It\u2019s a practice focused on cultivating a stillness of the mind, often involving a deep seated",
+    "judge_answer": 2,
+    "entailment_score": 0.0504
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": " What is a central component of tantric Buddhism?",
+    "choices": [
+      "Asceticism",
+      "Bodily pleasure",
+      "Music",
+      "Sexual union"
+    ],
+    "correct_answer_index": 3,
+    "probabilities": [
+      0.16639336320780965,
+      0.008086538819905006,
+      4.029340914257773e-07,
+      0.007147375317142503
+    ],
+    "loglikelihoods": [
+      0.16639336320780965,
+      0.008086538819905006,
+      4.029340914257773e-07,
+      0.007147375317142503
+    ],
+    "is_greedy": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "predicted_index": 0,
+    "is_correct": false,
+    "actual_answer": "The most accepted and widely recognized central component of Tantric Buddhism is the practice of sexual union \u2013 a practice believed to facilitate spiritual growth and union with the divine.\n...is considered a crucial element in the practice of Tantra, a discipline that emphasizes experiential understanding over intellectual speculation. It\u2019s a complex and deeply personal",
+    "judge_answer": 2,
+    "entailment_score": 0.008
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": " How does the Egyptian composition Ludul Bel Nemequi (\"I will praise the Lord of wisdom) portray Marduk?",
+    "choices": [
+      "Loving and forgiving",
+      "Wrathful and merciful",
+      "Judging and vengeful",
+      "Transcendent and immanent"
+    ],
+    "correct_answer_index": 1,
+    "probabilities": [
+      0.4129610281128294,
+      0.018928565879973658,
+      0.1388290878327382,
+      0.19635383173937732
+    ],
+    "loglikelihoods": [
+      0.4129610281128294,
+      0.018928565879973658,
+      0.1388290878327382,
+      0.19635383173937732
+    ],
+    "is_greedy": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "predicted_index": 0,
+    "is_correct": false,
+    "actual_answer": "The text doesn\u2019t explicitly detail Marduk\u2019s portrayal, but it suggests a complex and often contradictory image. It\u2019s a multifaceted deity, frequently depicted as a powerful figure who demands constant vigilance and a profound understanding of divine law. He\u2019s often portrayed as a figure of immense power, wielding a cosmic power",
+    "judge_answer": 1,
+    "entailment_score": 0.0271
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": " After the Bar Kochba revolt, where were the two main centres for Jewish development?",
+    "choices": [
+      "Palestine and Babylonia",
+      "Babylonia and Europe",
+      "Palestine and Spain",
+      "Spain and France"
+    ],
+    "correct_answer_index": 0,
+    "probabilities": [
+      0.30829774450707675,
+      0.051645579111610496,
+      0.023041516491439817,
+      0.15024845075625282
+    ],
+    "loglikelihoods": [
+      0.30829774450707675,
+      0.051645579111610496,
+      0.023041516491439817,
+      0.15024845075625282
+    ],
+    "is_greedy": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "predicted_index": 0,
+    "is_correct": true,
+    "actual_answer": "The correct answer is **Palestine and Babylonia / Babylonia and Europe / Palestine and Spain**.\n\nThe Bar Kochba revolt, a significant event in Jewish history, significantly boosted the influence of the Jewish community in the region.  The revolt\u2019s success, particularly its initial victories, fueled a resurgence of",
+    "judge_answer": 1,
+    "entailment_score": 0.0043
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": " In addition to Jainism, which other tradition began as a world-renouncing movement?",
+    "choices": [
+      "Buddhism",
+      "Hinduism",
+      "Judaism",
+      "Islam"
+    ],
+    "correct_answer_index": 0,
+    "probabilities": [
+      0.5009149827841336,
+      0.10078482758594012,
+      0.005364048711937673,
+      8.619616892246995e-06
+    ],
+    "loglikelihoods": [
+      0.5009149827841336,
+      0.10078482758594012,
+      0.005364048711937673,
+      8.619616892246995e-06
+    ],
+    "is_greedy": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "predicted_index": 0,
+    "is_correct": true,
+    "actual_answer": "Jainism.",
+    "judge_answer": 1,
+    "entailment_score": 0.0649
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": "According to Hindu tradition, which age are we in currently?",
+    "choices": [
+      "Kali yuga",
+      "Maha yuga",
+      "Krita yuga",
+      "Satya yuga"
+    ],
+    "correct_answer_index": 0,
+    "probabilities": [
+      0.23405802182873545,
+      0.03879768209756873,
+      0.28129291989613414,
+      0.14498132075493814
+    ],
+    "loglikelihoods": [
+      0.23405802182873545,
+      0.03879768209756873,
+      0.28129291989613414,
+      0.14498132075493814
+    ],
+    "is_greedy": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "predicted_index": 2,
+    "is_correct": false,
+    "actual_answer": "The correct answer is **Krita yuga**.\n\nThe Krita Yuga is a significant period in the Hindu tradition, often considered a transition between the previous Kali Yuga ( Age of Destruction ) and the present Satya Yuga ( Age of Dharma ) , but it\u2019s a complex period with a nuanced understanding",
+    "judge_answer": 1,
+    "entailment_score": 0.0052
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": " In the Zoroastrian tradition, the term Gathas refers to which of the following?",
+    "choices": [
+      "Hymns",
+      "Laws",
+      "Ethics",
+      "Myths"
+    ],
+    "correct_answer_index": 0,
+    "probabilities": [
+      0.9015385131456263,
+      0.004782957956194878,
+      0.001071348087862134,
+      0.001178093233396658
+    ],
+    "loglikelihoods": [
+      0.9015385131456263,
+      0.004782957956194878,
+      0.001071348087862134,
+      0.001178093233396658
+    ],
+    "is_greedy": [
+      true,
+      false,
+      false,
+      false
+    ],
+    "predicted_index": 0,
+    "is_correct": true,
+    "actual_answer": "Hymns",
+    "judge_answer": 3,
+    "entailment_score": 0.9891
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": "Which form of Buddhism taught the only hope for salvation was in the saving grace of Amida?",
+    "choices": [
+      "Pure Land",
+      "Tendai",
+      "Shingon",
+      "Soto Zen"
+    ],
+    "correct_answer_index": 0,
+    "probabilities": [
+      0.9952078854334829,
+      0.016529511968817124,
+      0.1745986895191419,
+      0.04656625613211379
+    ],
+    "loglikelihoods": [
+      0.9952078854334829,
+      0.016529511968817124,
+      0.1745986895191419,
+      0.04656625613211379
+    ],
+    "is_greedy": [
+      true,
+      false,
+      false,
+      false
+    ],
+    "predicted_index": 0,
+    "is_correct": true,
+    "actual_answer": "Pure Land",
+    "judge_answer": 3,
+    "entailment_score": 0.9892
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": " According to Hindu tradition, who is considered to be the ideal wife?",
+    "choices": [
+      "Sita",
+      "Rama",
+      "Kali",
+      "Durga"
+    ],
+    "correct_answer_index": 0,
+    "probabilities": [
+      0.9163490753628339,
+      0.03581822291016579,
+      3.183246371918358e-05,
+      0.0023237365306971354
+    ],
+    "loglikelihoods": [
+      0.9163490753628339,
+      0.03581822291016579,
+      3.183246371918358e-05,
+      0.0023237365306971354
+    ],
+    "is_greedy": [
+      true,
+      false,
+      false,
+      false
+    ],
+    "predicted_index": 0,
+    "is_correct": true,
+    "actual_answer": "Sita.",
+    "judge_answer": 3,
+    "entailment_score": 0.9936
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": "Who is the woman mystic who exemplified the all-consuming love of the divine?",
+    "choices": [
+      "Rumi",
+      "Rabi'a",
+      "Fatimah",
+      "Khadija"
+    ],
+    "correct_answer_index": 1,
+    "probabilities": [
+      0.0025780932778673815,
+      0.8468548286442334,
+      0.1971530934563825,
+      0.5809897885772322
+    ],
+    "loglikelihoods": [
+      0.0025780932778673815,
+      0.8468548286442334,
+      0.1971530934563825,
+      0.5809897885772322
+    ],
+    "is_greedy": [
+      false,
+      true,
+      false,
+      false
+    ],
+    "predicted_index": 1,
+    "is_correct": true,
+    "actual_answer": "Rabi'a",
+    "judge_answer": 3,
+    "entailment_score": 0.9844
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": " Who is the eighth-century CE female poet worshipped throughout many South Indian temples dedicated to Vishnu?",
+    "choices": [
+      "Andal",
+      "Devi",
+      "Ganga",
+      "Kali"
+    ],
+    "correct_answer_index": 0,
+    "probabilities": [
+      0.023318314385461905,
+      0.8302638501771067,
+      0.13275545119992974,
+      0.008905001915991306
+    ],
+    "loglikelihoods": [
+      0.023318314385461905,
+      0.8302638501771067,
+      0.13275545119992974,
+      0.008905001915991306
+    ],
+    "is_greedy": [
+      false,
+      true,
+      false,
+      false
+    ],
+    "predicted_index": 1,
+    "is_correct": false,
+    "actual_answer": "Deva / Ganga",
+    "judge_answer": 1,
+    "entailment_score": 0.008
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": " Who is associated with the stigmata and preaching to birds?",
+    "choices": [
+      "Paul of Tarsus",
+      "Clare of Assisi",
+      "Francis of Assisi",
+      "John of the Cross"
+    ],
+    "correct_answer_index": 2,
+    "probabilities": [
+      0.20724770135096163,
+      0.2871846280623956,
+      0.967313949430064,
+      0.40395712112052884
+    ],
+    "loglikelihoods": [
+      0.20724770135096163,
+      0.2871846280623956,
+      0.967313949430064,
+      0.40395712112052884
+    ],
+    "is_greedy": [
+      false,
+      false,
+      true,
+      false
+    ],
+    "predicted_index": 2,
+    "is_correct": true,
+    "actual_answer": "Francis of Assisi",
+    "judge_answer": 3,
+    "entailment_score": 0.9869
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": " In his final work, Laws, Plato shifted from cosmology to which of the following issues?",
+    "choices": [
+      "Epistemology",
+      "Morality",
+      "Religion",
+      "Aesthetics"
+    ],
+    "correct_answer_index": 1,
+    "probabilities": [
+      0.5423860068633958,
+      0.0017447446944161239,
+      0.7775943279266357,
+      0.01839448036224809
+    ],
+    "loglikelihoods": [
+      0.5423860068633958,
+      0.0017447446944161239,
+      0.7775943279266357,
+      0.01839448036224809
+    ],
+    "is_greedy": [
+      false,
+      false,
+      true,
+      false
+    ],
+    "predicted_index": 2,
+    "is_correct": false,
+    "actual_answer": "Religion",
+    "judge_answer": 1,
+    "entailment_score": 0.1022
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": " Which Christian denomination promotes a stripped-down Christianity?",
+    "choices": [
+      "Greek Orthodox",
+      "Roman Catholic",
+      "Puritans",
+      "Quakers"
+    ],
+    "correct_answer_index": 3,
+    "probabilities": [
+      0.4752492154650522,
+      0.19550145881371803,
+      0.336430619106669,
+      0.009825880850398733
+    ],
+    "loglikelihoods": [
+      0.4752492154650522,
+      0.19550145881371803,
+      0.336430619106669,
+      0.009825880850398733
+    ],
+    "is_greedy": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "predicted_index": 0,
+    "is_correct": false,
+    "actual_answer": "The correct answer is **Puritans**.\n\nThe Puritans were a significant force in shaping the development of American religious practice, and their emphasis on individual conscience and a personal relationship with God led them to significantly influence the development of Protestantism in the colonies.  Their focus on a personal, often highly literal interpretation of the",
+    "judge_answer": 1,
+    "entailment_score": 0.0113
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": " Rome claimed that their bishop (pope) was the director successor of which leader?",
+    "choices": [
+      "Peter",
+      "Paul",
+      "Jesus",
+      "Matthew"
+    ],
+    "correct_answer_index": 0,
+    "probabilities": [
+      0.9695119261741638,
+      0.014010148122906685,
+      0.0018425608286634088,
+      0.008290721103549004
+    ],
+    "loglikelihoods": [
+      0.9695119261741638,
+      0.014010148122906685,
+      0.0018425608286634088,
+      0.008290721103549004
+    ],
+    "is_greedy": [
+      true,
+      false,
+      false,
+      false
+    ],
+    "predicted_index": 0,
+    "is_correct": true,
+    "actual_answer": "Peter",
+    "judge_answer": 3,
+    "entailment_score": 0.9576
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": "When was the current Dalai Lama born?",
+    "choices": [
+      "1935",
+      "2000",
+      "1965",
+      "1975"
+    ],
+    "correct_answer_index": 0,
+    "probabilities": [
+      0.995831656611647,
+      0.10511682444690285,
+      0.09331873401238829,
+      0.0774132477122169
+    ],
+    "loglikelihoods": [
+      0.995831656611647,
+      0.10511682444690285,
+      0.09331873401238829,
+      0.0774132477122169
+    ],
+    "is_greedy": [
+      true,
+      false,
+      false,
+      false
+    ],
+    "predicted_index": 0,
+    "is_correct": true,
+    "actual_answer": "1935",
+    "judge_answer": 3,
+    "entailment_score": 0.9841
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": " According to Jaina traditions, who were the caityavasis?",
+    "choices": [
+      "Householders who supported renouncers",
+      "Orthodox interpreters of the scriptures",
+      "Women ascetics who lived in communities",
+      "Temple-dwelling renouncers"
+    ],
+    "correct_answer_index": 3,
+    "probabilities": [
+      0.2795458246145757,
+      0.03738115789307058,
+      0.07773596725286734,
+      0.11567592625191635
+    ],
+    "loglikelihoods": [
+      0.2795458246145757,
+      0.03738115789307058,
+      0.07773596725286734,
+      0.11567592625191635
+    ],
+    "is_greedy": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "predicted_index": 0,
+    "is_correct": false,
+    "actual_answer": "\u2026were considered to be the highest level of devotion, and their practice was largely dismissed by the Church.  It was believed that their devotion, particularly in the context of the religious practices of the time, fostered a closer connection to God and\n\u2026as a sign of God\u2019s grace and a reflection of his own",
+    "judge_answer": 1,
+    "entailment_score": 0.0073
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": "Zhuangzi describes a state as ziran, which means which of the following?",
+    "choices": [
+      "Thoughtfulness",
+      "Non-action",
+      "Spontaneity",
+      "Meditation"
+    ],
+    "correct_answer_index": 2,
+    "probabilities": [
+      0.9449415413304163,
+      0.04564952396925604,
+      0.19368124605101167,
+      0.03339635901392396
+    ],
+    "loglikelihoods": [
+      0.9449415413304163,
+      0.04564952396925604,
+      0.19368124605101167,
+      0.03339635901392396
+    ],
+    "is_greedy": [
+      true,
+      false,
+      false,
+      false
+    ],
+    "predicted_index": 0,
+    "is_correct": false,
+    "actual_answer": "Thoughtfulness",
+    "judge_answer": 1,
+    "entailment_score": 0.025
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": " The mudras, which are an important feature of Buddhist art, are also known as what?",
+    "choices": [
+      "hand gestures",
+      "saints",
+      "religious clothing",
+      "temples"
+    ],
+    "correct_answer_index": 0,
+    "probabilities": [
+      0.735472635910446,
+      0.002507476800845029,
+      0.17729292129943022,
+      0.000877132938582541
+    ],
+    "loglikelihoods": [
+      0.735472635910446,
+      0.002507476800845029,
+      0.17729292129943022,
+      0.000877132938582541
+    ],
+    "is_greedy": [
+      true,
+      false,
+      false,
+      false
+    ],
+    "predicted_index": 0,
+    "is_correct": true,
+    "actual_answer": "Religious clothing",
+    "judge_answer": 1,
+    "entailment_score": 0.0218
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": " The Maccabean Revolt is associated with which ruler?",
+    "choices": [
+      "Julius Caesar",
+      "Alexander the Great",
+      "Cyrus of Persia",
+      "Antiochus IV Epiphanes"
+    ],
+    "correct_answer_index": 3,
+    "probabilities": [
+      0.0009973127600616876,
+      0.0010424814211498698,
+      0.02911231931038692,
+      0.9926752276260292
+    ],
+    "loglikelihoods": [
+      0.0009973127600616876,
+      0.0010424814211498698,
+      0.02911231931038692,
+      0.9926752276260292
+    ],
+    "is_greedy": [
+      false,
+      false,
+      false,
+      true
+    ],
+    "predicted_index": 3,
+    "is_correct": true,
+    "actual_answer": "Antiochus IV Epiphanes",
+    "judge_answer": 3,
+    "entailment_score": 0.9816
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": " How old was Guru Nanak when he started to preach the message of the divine Name?",
+    "choices": [
+      "30",
+      "40",
+      "33",
+      "52"
+    ],
+    "correct_answer_index": 0,
+    "probabilities": [
+      0.7543587508336425,
+      0.1277742072708824,
+      0.10529140588027062,
+      0.014751256871439347
+    ],
+    "loglikelihoods": [
+      0.7543587508336425,
+      0.1277742072708824,
+      0.10529140588027062,
+      0.014751256871439347
+    ],
+    "is_greedy": [
+      true,
+      false,
+      false,
+      false
+    ],
+    "predicted_index": 0,
+    "is_correct": true,
+    "actual_answer": "30\n\u2026as a symbol of purity and devotion, representing a connection to the divine and a recognition of God\u2019s own divine nature.  It\u2019s a complex and deeply personal practice, deeply rooted in the understanding of God\u2019s own suffering and sacrifice.  It\u2019s a profound commitment, requiring a",
+    "judge_answer": 2,
+    "entailment_score": 0.13
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": "The widely adored Egyptian goddess Hathor was depicted as which of the following?",
+    "choices": [
+      "Serpent",
+      "Eagle",
+      "Cheetah",
+      "Cow"
+    ],
+    "correct_answer_index": 3,
+    "probabilities": [
+      0.23727827143171065,
+      0.0012068242067471147,
+      0.09198208824745782,
+      0.798137366771698
+    ],
+    "loglikelihoods": [
+      0.23727827143171065,
+      0.0012068242067471147,
+      0.09198208824745782,
+      0.798137366771698
+    ],
+    "is_greedy": [
+      false,
+      false,
+      false,
+      true
+    ],
+    "predicted_index": 3,
+    "is_correct": true,
+    "actual_answer": "Cow",
+    "judge_answer": 3,
+    "entailment_score": 0.9851
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": "What does the phrase Guru-Panth mean within the Sikh traditions?",
+    "choices": [
+      "Community",
+      "Scripture",
+      "Worship",
+      "Apprenticeship"
+    ],
+    "correct_answer_index": 0,
+    "probabilities": [
+      0.000702522462233901,
+      0.001007811982060356,
+      0.0005244679420256131,
+      0.0072020599213829545
+    ],
+    "loglikelihoods": [
+      0.000702522462233901,
+      0.001007811982060356,
+      0.0005244679420256131,
+      0.0072020599213829545
+    ],
+    "is_greedy": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "predicted_index": 3,
+    "is_correct": false,
+    "actual_answer": "The correct answer is **Guru-panth**.\n\nThe term \u2018Guru-panth\u2019 is a complex and deeply significant concept within Sikh religious practice, deeply intertwined with the understanding of the Guru\u2019s role in shaping the individual\u2019s spiritual journey. It\u2019s a complex and often debated term, but its precise",
+    "judge_answer": 1,
+    "entailment_score": 0.0518
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": " After what event did the Rabbinical period begin within Judaism?",
+    "choices": [
+      "Construction of the Second Temple",
+      "Destruction of the Second Temple",
+      "The Christianization of the Roman Empire",
+      "The emergence of Islam"
+    ],
+    "correct_answer_index": 1,
+    "probabilities": [
+      0.4577081894053563,
+      0.06502616117202491,
+      0.379426827650464,
+      0.09083898153580236
+    ],
+    "loglikelihoods": [
+      0.4577081894053563,
+      0.06502616117202491,
+      0.379426827650464,
+      0.09083898153580236
+    ],
+    "is_greedy": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "predicted_index": 0,
+    "is_correct": false,
+    "actual_answer": "The Rabbinical period began after the destruction of the Second Temple in 70 CE , marking a significant shift in Jewish religious practice and tradition.\n\u2026the latter, a practice largely predicated on the belief that God\u2019s presence was inextricably linked to the worship of the Temple\u2019s primary focus, the Temple itself",
+    "judge_answer": 2,
+    "entailment_score": 0.0076
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": "Which monk developed Pure Land Buddhism as we know it today?",
+    "choices": [
+      "Genshin",
+      "Dogen",
+      "Honen",
+      "Shinran"
+    ],
+    "correct_answer_index": 2,
+    "probabilities": [
+      0.11304667631577625,
+      0.04975175070390444,
+      0.04747425233638515,
+      0.9631632849419071
+    ],
+    "loglikelihoods": [
+      0.11304667631577625,
+      0.04975175070390444,
+      0.04747425233638515,
+      0.9631632849419071
+    ],
+    "is_greedy": [
+      false,
+      false,
+      false,
+      true
+    ],
+    "predicted_index": 3,
+    "is_correct": false,
+    "actual_answer": "Shinran",
+    "judge_answer": 1,
+    "entailment_score": 0.0506
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": "Which is the largest Muslim country in the world with more than 200 million adherents?",
+    "choices": [
+      "Pakistan",
+      "Iraq",
+      "Indonesia",
+      "Turkey"
+    ],
+    "correct_answer_index": 2,
+    "probabilities": [
+      0.9968476891517639,
+      0.0001890696003101766,
+      0.0003937558503821492,
+      5.584198152064346e-05
+    ],
+    "loglikelihoods": [
+      0.9968476891517639,
+      0.0001890696003101766,
+      0.0003937558503821492,
+      5.584198152064346e-05
+    ],
+    "is_greedy": [
+      true,
+      false,
+      false,
+      false
+    ],
+    "predicted_index": 0,
+    "is_correct": false,
+    "actual_answer": "Pakistan\n\n...is a significant portion of the population, particularly in urban centers like Karachi and Lahore.  Its population is primarily Arab, with a significant Arab-speaking population, often predominantly of Turkish descent.  Its population is largely of Arab descent, reflecting a history deeply intertwined with the region\u2019s history and the influence",
+    "judge_answer": 1,
+    "entailment_score": 0.0336
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": "Which pope promoted the cults of St. Peter and St. Paul to bolster authority in Rome?",
+    "choices": [
+      "Gregory",
+      "Augustine",
+      "Athanasius",
+      "Francis"
+    ],
+    "correct_answer_index": 0,
+    "probabilities": [
+      0.03533850610256195,
+      0.06728960480636459,
+      0.5445959346088038,
+      0.0026827731635421515
+    ],
+    "loglikelihoods": [
+      0.03533850610256195,
+      0.06728960480636459,
+      0.5445959346088038,
+      0.0026827731635421515
+    ],
+    "is_greedy": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "predicted_index": 2,
+    "is_correct": false,
+    "actual_answer": "A.  Augustine",
+    "judge_answer": 1,
+    "entailment_score": 0.0574
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": "Which of the following does the term \"Arhats\" refer to?",
+    "choices": [
+      "Enlightened being",
+      "Worthy ones",
+      "Saintly ones",
+      "Sages"
+    ],
+    "correct_answer_index": 0,
+    "probabilities": [
+      0.21036420647301018,
+      0.139579505431635,
+      0.8363267769577103,
+      0.15257208558199897
+    ],
+    "loglikelihoods": [
+      0.21036420647301018,
+      0.139579505431635,
+      0.8363267769577103,
+      0.15257208558199897
+    ],
+    "is_greedy": [
+      false,
+      false,
+      true,
+      false
+    ],
+    "predicted_index": 2,
+    "is_correct": false,
+    "actual_answer": "Worthy ones",
+    "judge_answer": 1,
+    "entailment_score": 0.6905
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": "Which Guru was martyred when he refused to embrace Islam?",
+    "choices": [
+      "Guru Ram Das",
+      "Guru Tegh Bahadur",
+      "Guru Gobind Singh",
+      "Guru Har Rai"
+    ],
+    "correct_answer_index": 1,
+    "probabilities": [
+      0.10876566681391021,
+      0.9962974586907136,
+      0.27156358396904823,
+      0.05331444941309549
+    ],
+    "loglikelihoods": [
+      0.10876566681391021,
+      0.9962974586907136,
+      0.27156358396904823,
+      0.05331444941309549
+    ],
+    "is_greedy": [
+      false,
+      true,
+      false,
+      false
+    ],
+    "predicted_index": 1,
+    "is_correct": true,
+    "actual_answer": "Guru Tegh Bahadur was martyred. He refused to embrace Islam and was subsequently executed by the Mughal emperor\n\u2026as a devout Muslim. He was subsequently buried in the tomb of his father, the great saint Shaheed Baba Soorma , at the Darbela Cave near present @-@ day Tehran , Iran",
+    "judge_answer": 2,
+    "entailment_score": 0.0075
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": " Which Guru donned the two swords symbolling temporal and spiritual authority?",
+    "choices": [
+      "Guru Nanak",
+      "Guru Arjan",
+      "Guru Hargobind",
+      "Guru Ram Das"
+    ],
+    "correct_answer_index": 2,
+    "probabilities": [
+      0.6752521218700901,
+      0.5110568696358948,
+      0.838144769288565,
+      0.33176708928571397
+    ],
+    "loglikelihoods": [
+      0.6752521218700901,
+      0.5110568696358948,
+      0.838144769288565,
+      0.33176708928571397
+    ],
+    "is_greedy": [
+      false,
+      false,
+      true,
+      false
+    ],
+    "predicted_index": 2,
+    "is_correct": true,
+    "actual_answer": "Guru Hargobind.",
+    "judge_answer": 3,
+    "entailment_score": 0.9695
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": " Where is the key to liberation found within Sikhism?",
+    "choices": [
+      "In the community",
+      "In faith in God",
+      "In ascetic renunciation",
+      "In the life of the householder"
+    ],
+    "correct_answer_index": 3,
+    "probabilities": [
+      0.2889381574968788,
+      0.006222224549135486,
+      0.002958281956142811,
+      0.30086742524499693
+    ],
+    "loglikelihoods": [
+      0.2889381574968788,
+      0.006222224549135486,
+      0.002958281956142811,
+      0.30086742524499693
+    ],
+    "is_greedy": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "predicted_index": 3,
+    "is_correct": true,
+    "actual_answer": "The text does not offer a single, definitive answer to where the key to liberation lies within Sikhism. It emphasizes the importance of cultivating a personal relationship with God, achieved through devotion and selfless service, rather than a single, isolated practice.  It suggests that this is found within the community, fostered through faith and a",
+    "judge_answer": 1,
+    "entailment_score": 0.0965
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": "Which is one of the most fundamental themes of Japanese culture and civilization?",
+    "choices": [
+      "God is eternal and merciful to those who offer worship",
+      "Humans can align themselves with life energy through worship of kami",
+      "Justice will be the final outcome in the next world",
+      "Power and force are the most divine attributes"
+    ],
+    "correct_answer_index": 0,
+    "probabilities": [
+      0.7459438245022534,
+      0.4042224987526353,
+      0.5349490063433084,
+      0.4184333725842421
+    ],
+    "loglikelihoods": [
+      0.7459438245022534,
+      0.4042224987526353,
+      0.5349490063433084,
+      0.4184333725842421
+    ],
+    "is_greedy": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "predicted_index": 0,
+    "is_correct": true,
+    "actual_answer": "\u2026and it\u2019s a surprisingly complex and deeply ingrained part of Japanese culture, deeply intertwined with the very foundations of their religious beliefs and societal structure. Its influence permeates countless traditions, influencing everything from daily life to architecture and even the way people approach death and the afterlife.  It\u2019s a complex tapestry woven with threads",
+    "judge_answer": 1,
+    "entailment_score": 0.0049
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": " Which goddess is worshipped during the festival of Divali?",
+    "choices": [
+      "Durga",
+      "Sri Lakshmi",
+      "Kali",
+      "Mahavira"
+    ],
+    "correct_answer_index": 1,
+    "probabilities": [
+      0.09598467938922413,
+      0.1924795905638126,
+      0.07837817817926407,
+      0.23927524641629863
+    ],
+    "loglikelihoods": [
+      0.09598467938922413,
+      0.1924795905638126,
+      0.07837817817926407,
+      0.23927524641629863
+    ],
+    "is_greedy": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "predicted_index": 3,
+    "is_correct": false,
+    "actual_answer": "The correct answer is **Mahavira**.\n\nThe festival of Divali is primarily dedicated to Mahavira, the 7th @-@ century Mahavira, a prominent disciple of the Buddha.  It\u2019s a significant festival associated with his life and teachings.",
+    "judge_answer": 1,
+    "entailment_score": 0.0094
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": " Where did people believe in the goddess known as Holy Mother of Mount Fairy Peach?",
+    "choices": [
+      "China",
+      "Silla",
+      "Goguryeo",
+      "Joseon"
+    ],
+    "correct_answer_index": 1,
+    "probabilities": [
+      0.8851126432418823,
+      0.0488693345451644,
+      0.0881448409546777,
+      0.00894929381657364
+    ],
+    "loglikelihoods": [
+      0.8851126432418823,
+      0.0488693345451644,
+      0.0881448409546777,
+      0.00894929381657364
+    ],
+    "is_greedy": [
+      true,
+      false,
+      false,
+      false
+    ],
+    "predicted_index": 0,
+    "is_correct": false,
+    "actual_answer": "China\n\nThe goddess of Mount Fairy Peach is a prominent figure in Chinese mythology, deeply intertwined with the fertility and fertility of the region. Her worship was widespread, particularly in the Song Dynasty, and her image was widely depicted in art and literature.  Her cult was often linked to the fertility cults prevalent during that era",
+    "judge_answer": 1,
+    "entailment_score": 0.025
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": " To whom is the Yoga Sutras attributed?",
+    "choices": [
+      "Madhva",
+      "Patanjali",
+      "Ramanuja",
+      "Aryabhatta"
+    ],
+    "correct_answer_index": 1,
+    "probabilities": [
+      0.003404182151331826,
+      0.9493040028541311,
+      0.28293134496552047,
+      0.06675269804374867
+    ],
+    "loglikelihoods": [
+      0.003404182151331826,
+      0.9493040028541311,
+      0.28293134496552047,
+      0.06675269804374867
+    ],
+    "is_greedy": [
+      false,
+      true,
+      false,
+      false
+    ],
+    "predicted_index": 1,
+    "is_correct": true,
+    "actual_answer": "Patanjali.",
+    "judge_answer": 3,
+    "entailment_score": 0.9928
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": " Which of the following does NOT describe the Ka'ba?",
+    "choices": [
+      "It was visited by Moses.",
+      "It is a haram.",
+      "It was built by Abraham.",
+      "It is a square building."
+    ],
+    "correct_answer_index": 0,
+    "probabilities": [
+      0.043007587657031984,
+      0.6047052978156358,
+      0.5351781324449116,
+      0.8268438441715757
+    ],
+    "loglikelihoods": [
+      0.043007587657031984,
+      0.6047052978156358,
+      0.5351781324449116,
+      0.8268438441715757
+    ],
+    "is_greedy": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "predicted_index": 3,
+    "is_correct": false,
+    "actual_answer": "It is a haram.",
+    "judge_answer": 1,
+    "entailment_score": 0.0345
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": "Which elephant-headed Hindu deity is often described as the most beloved?",
+    "choices": [
+      "Parvati",
+      "Ganesha",
+      "Vishnu",
+      "Sita"
+    ],
+    "correct_answer_index": 1,
+    "probabilities": [
+      0.8892629816385563,
+      0.42683442486465206,
+      0.00954472015773805,
+      0.11964402650950176
+    ],
+    "loglikelihoods": [
+      0.8892629816385563,
+      0.42683442486465206,
+      0.00954472015773805,
+      0.11964402650950176
+    ],
+    "is_greedy": [
+      true,
+      false,
+      false,
+      false
+    ],
+    "predicted_index": 0,
+    "is_correct": false,
+    "actual_answer": "Parvati",
+    "judge_answer": 1,
+    "entailment_score": 0.001
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": "Sacred literature originated with which of the following jina?",
+    "choices": [
+      "Sri Lakshmi",
+      "Mahavira",
+      "Rsabha",
+      "Nanak"
+    ],
+    "correct_answer_index": 2,
+    "probabilities": [
+      0.029024570173227113,
+      0.17475582238538465,
+      0.44110228114656896,
+      0.4720558581267318
+    ],
+    "loglikelihoods": [
+      0.029024570173227113,
+      0.17475582238538465,
+      0.44110228114656896,
+      0.4720558581267318
+    ],
+    "is_greedy": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "predicted_index": 3,
+    "is_correct": false,
+    "actual_answer": "Nanak\n\u2026was a significant influence on the development of Indian religious practices. His teachings emphasized a personal, experiential understanding of the divine, often incorporating elements of the Vedic tradition, but with a distinct emphasis on individual devotion and a profound reverence for the divine. He believed that the gods were manifestations of a single, unified",
+    "judge_answer": 1,
+    "entailment_score": 0.1005
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": " Who is the author of Admonitions for Women?",
+    "choices": [
+      "Ban Zhao",
+      "Laozi",
+      "Menicus",
+      "Liu Xiang"
+    ],
+    "correct_answer_index": 0,
+    "probabilities": [
+      0.21274340844593634,
+      0.3453050588046188,
+      0.03506647568460909,
+      0.5946130278899987
+    ],
+    "loglikelihoods": [
+      0.21274340844593634,
+      0.3453050588046188,
+      0.03506647568460909,
+      0.5946130278899987
+    ],
+    "is_greedy": [
+      false,
+      false,
+      false,
+      true
+    ],
+    "predicted_index": 3,
+    "is_correct": false,
+    "actual_answer": "Liu Xiang",
+    "judge_answer": 1,
+    "entailment_score": 0.0016
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": "How many female renouncers were under the tutelage of Chandanbala?",
+    "choices": [
+      "36,000",
+      "12,000",
+      "24,000",
+      "7,000"
+    ],
+    "correct_answer_index": 0,
+    "probabilities": [
+      0.46695503274957706,
+      0.304881871298567,
+      0.27014388701549763,
+      0.4097872622697725
+    ],
+    "loglikelihoods": [
+      0.46695503274957706,
+      0.304881871298567,
+      0.27014388701549763,
+      0.4097872622697725
+    ],
+    "is_greedy": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "predicted_index": 0,
+    "is_correct": true,
+    "actual_answer": "The text doesn\u2019t provide a specific number of female renouncers under Chandanbala\u2019s tutelage. It focuses on the broader practice of nuns and their numbers, but doesn\u2019t elaborate on the number of women participating in a particular institution.",
+    "judge_answer": 1,
+    "entailment_score": 0.005
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": "According to the Sikh tradition, the Mul Mantar illuminates the nature of what?",
+    "choices": [
+      "Ultimate Reality",
+      "The gurus",
+      "The community",
+      "Sikh worship"
+    ],
+    "correct_answer_index": 0,
+    "probabilities": [
+      0.16115674839407104,
+      1.1183533659473443e-05,
+      0.00014067316784932744,
+      0.04366695876288986
+    ],
+    "loglikelihoods": [
+      0.16115674839407104,
+      1.1183533659473443e-05,
+      0.00014067316784932744,
+      0.04366695876288986
+    ],
+    "is_greedy": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "predicted_index": 0,
+    "is_correct": true,
+    "actual_answer": "The correct answer is **Ultimate Reality / The Guru**.\n\nThe Mul Mantar, a foundational text in Sikh tradition, is believed to reveal the nature of God and ultimately, the nature of reality itself, revealing the ultimate unity and unity underlying all existence. It\u2019s a profound and deeply spiritual practice aimed at realizing this",
+    "judge_answer": 2,
+    "entailment_score": 0.002
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": " What term refers the divine order as an ell-embracing higher principle in Sikhism?",
+    "choices": [
+      "Sansar",
+      "Hukam",
+      "Mantar",
+      "Karam"
+    ],
+    "correct_answer_index": 1,
+    "probabilities": [
+      0.002330372874795877,
+      0.0072328532167693655,
+      0.0010266857306311754,
+      0.005387249090350254
+    ],
+    "loglikelihoods": [
+      0.002330372874795877,
+      0.0072328532167693655,
+      0.0010266857306311754,
+      0.005387249090350254
+    ],
+    "is_greedy": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "predicted_index": 1,
+    "is_correct": true,
+    "actual_answer": "The correct answer is **Hukam**.\n\nThe term \u201cHukam\u201d ( pronounced \u201cham\u201d) is a central concept in Sikhism and philosophy, particularly within the context of the Guru\u2019s divine will and the divine order of the universe. It signifies a fundamental principle, a divine intention woven into the very fabric of",
+    "judge_answer": 2,
+    "entailment_score": 0.0153
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": " How many books are in the New Testament?",
+    "choices": [
+      "30",
+      "29",
+      "27",
+      "47"
+    ],
+    "correct_answer_index": 2,
+    "probabilities": [
+      0.37293618027765163,
+      0.03726424803438912,
+      0.009610800600988557,
+      0.03899398299181424
+    ],
+    "loglikelihoods": [
+      0.37293618027765163,
+      0.03726424803438912,
+      0.009610800600988557,
+      0.03899398299181424
+    ],
+    "is_greedy": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "predicted_index": 0,
+    "is_correct": false,
+    "actual_answer": "The number of books in the New Testament varies depending on the source and how it\u2019s defined. However, most scholars estimate it to be between **27 and 33** volumes.",
+    "judge_answer": 2,
+    "entailment_score": 0.0046
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": "Which form of Buddhism focuses on social engagement that attracts lay participation?",
+    "choices": [
+      "Zen Buddhism",
+      "Chan Buddhism",
+      "Humanistic Buddhism",
+      "Pure Land Buddhism"
+    ],
+    "correct_answer_index": 2,
+    "probabilities": [
+      0.8421708793753474,
+      0.3996754006587783,
+      0.16636835589119323,
+      0.09011503985068708
+    ],
+    "loglikelihoods": [
+      0.8421708793753474,
+      0.3996754006587783,
+      0.16636835589119323,
+      0.09011503985068708
+    ],
+    "is_greedy": [
+      true,
+      false,
+      false,
+      false
+    ],
+    "predicted_index": 0,
+    "is_correct": false,
+    "actual_answer": "Zen Buddhism / Chan Buddhism",
+    "judge_answer": 1,
+    "entailment_score": 0.0074
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": " What was one of the distinctive beliefs or practices of the southerners (Digambara)?",
+    "choices": [
+      "They worshipped exclusively outside of the temple",
+      "They believed that nakedness was an elemental expression of non-attachment",
+      "They included women within the ranks of the leadership",
+      "They believed that the omniscient Jina must eat and sleep"
+    ],
+    "correct_answer_index": 1,
+    "probabilities": [
+      0.11234532034473305,
+      0.4667415110578306,
+      0.14878026812411657,
+      0.3771996680015325
+    ],
+    "loglikelihoods": [
+      0.11234532034473305,
+      0.4667415110578306,
+      0.14878026812411657,
+      0.3771996680015325
+    ],
+    "is_greedy": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "predicted_index": 1,
+    "is_correct": true,
+    "actual_answer": "\u2026are considered to be the four castes of Hindu society \u2013 Brahmins, Kshatriyas, Vaishyas, and Shudras \u2013 and they are considered the highest order of beings in the hierarchy.  Their roles are defined by their occupation and the responsibilities they are assigned by their respective deities\n\u2026in the world",
+    "judge_answer": 1,
+    "entailment_score": 0.3262
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": "The central prayer in Jainism is known by which of the following names?",
+    "choices": [
+      "Namokar Mantra",
+      "The Liberation Mantra",
+      "Ahimsa",
+      "Archaryas"
+    ],
+    "correct_answer_index": 0,
+    "probabilities": [
+      0.29789424908278017,
+      0.0007924938212181235,
+      0.16470314974334055,
+      0.054624068777112164
+    ],
+    "loglikelihoods": [
+      0.29789424908278017,
+      0.0007924938212181235,
+      0.16470314974334055,
+      0.054624068777112164
+    ],
+    "is_greedy": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "predicted_index": 0,
+    "is_correct": true,
+    "actual_answer": "The correct answer is **Namokar Mantra**.",
+    "judge_answer": 3,
+    "entailment_score": 0.1858
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": "When did the first Jaina temples appear?",
+    "choices": [
+      "Second century CE",
+      "Fifth century CE",
+      "Fifth century BCE",
+      "Eighteenth century CE"
+    ],
+    "correct_answer_index": 1,
+    "probabilities": [
+      0.21438253527535167,
+      0.14507176422247814,
+      0.008962405664241746,
+      0.07980603546857641
+    ],
+    "loglikelihoods": [
+      0.21438253527535167,
+      0.14507176422247814,
+      0.008962405664241746,
+      0.07980603546857641
+    ],
+    "is_greedy": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "predicted_index": 0,
+    "is_correct": false,
+    "actual_answer": "The earliest evidence of Jaina temples in India dates back to the 5th century CE , though their precise origins are shrouded in mystery.  The earliest known structures were constructed during the reign of the Gupta Empire, with the first monuments dating back to the late 5th century , but further\n\u2026was largely destroyed",
+    "judge_answer": 3,
+    "entailment_score": 0.0083
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": "How many Jinas have appeared during our age?",
+    "choices": [
+      "7",
+      "42",
+      "24",
+      "13"
+    ],
+    "correct_answer_index": 2,
+    "probabilities": [
+      0.01050697173923254,
+      0.01603969624913687,
+      0.0018350313355272626,
+      0.005971188596777218
+    ],
+    "loglikelihoods": [
+      0.01050697173923254,
+      0.01603969624913687,
+      0.0018350313355272626,
+      0.005971188596777218
+    ],
+    "is_greedy": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "predicted_index": 1,
+    "is_correct": false,
+    "actual_answer": "\u2026to the court of the Buddha . He is considered the patron saint of the city of Bangalore and a major figure in the city\u2019s religious landscape. His influence extends far beyond the purely devotional, influencing the development of the city\u2019s religious practices and architectural design.  His influence is deeply intertwined with the burgeoning",
+    "judge_answer": 1,
+    "entailment_score": 0.4422
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": "The title Dalai Lama means which of the following?",
+    "choices": [
+      "Ocean of Love",
+      "Lover of Wisdom",
+      "Ocean of Wisdom",
+      "Stillness of Love"
+    ],
+    "correct_answer_index": 2,
+    "probabilities": [
+      0.5659129566426272,
+      0.0014067632899342636,
+      0.4951218106671063,
+      0.2600473599947548
+    ],
+    "loglikelihoods": [
+      0.5659129566426272,
+      0.0014067632899342636,
+      0.4951218106671063,
+      0.2600473599947548
+    ],
+    "is_greedy": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "predicted_index": 0,
+    "is_correct": false,
+    "actual_answer": "The Dalai Lama is often referred to as the Ocean of Love, reflecting its association with compassion and the profound connection it represents.",
+    "judge_answer": 1,
+    "entailment_score": 0.0048
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": "Who accompanies Vishnu in many of his incarnations as his consort, and is known as the goddess of good fortune?",
+    "choices": [
+      "Parvati",
+      "Sita",
+      "Sri (Lakshmi)",
+      "Sarasvati"
+    ],
+    "correct_answer_index": 2,
+    "probabilities": [
+      0.8102951578152112,
+      0.07994612550445171,
+      0.31254771841471135,
+      0.6037812296467625
+    ],
+    "loglikelihoods": [
+      0.8102951578152112,
+      0.07994612550445171,
+      0.31254771841471135,
+      0.6037812296467625
+    ],
+    "is_greedy": [
+      true,
+      false,
+      false,
+      false
+    ],
+    "predicted_index": 0,
+    "is_correct": false,
+    "actual_answer": "Parvati",
+    "judge_answer": 1,
+    "entailment_score": 0.0034
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": "What is bhakti often translated as?",
+    "choices": [
+      "Gods",
+      "Yoga",
+      "Devotion",
+      "Religion"
+    ],
+    "correct_answer_index": 2,
+    "probabilities": [
+      0.34513465463525017,
+      0.0024806286673992872,
+      0.8251336342835003,
+      0.0032099089585244656
+    ],
+    "loglikelihoods": [
+      0.34513465463525017,
+      0.0024806286673992872,
+      0.8251336342835003,
+      0.0032099089585244656
+    ],
+    "is_greedy": [
+      false,
+      false,
+      true,
+      false
+    ],
+    "predicted_index": 2,
+    "is_correct": true,
+    "actual_answer": "Devotion",
+    "judge_answer": 3,
+    "entailment_score": 0.9835
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": " Which Hindu god or goddess is speech incarnate, the power of the word, and the mother of the Vedas?",
+    "choices": [
+      "Vishnu",
+      "Ganesha",
+      "Sarasvati",
+      "Indra"
+    ],
+    "correct_answer_index": 2,
+    "probabilities": [
+      0.5656748101939044,
+      0.2707358448874123,
+      0.17166085069385484,
+      0.06579147742559412
+    ],
+    "loglikelihoods": [
+      0.5656748101939044,
+      0.2707358448874123,
+      0.17166085069385484,
+      0.06579147742559412
+    ],
+    "is_greedy": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "predicted_index": 0,
+    "is_correct": false,
+    "actual_answer": "Vishnu",
+    "judge_answer": 1,
+    "entailment_score": 0.0084
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": " What is the name of the Jewish prayer used for mourning since the Middle Ages?",
+    "choices": [
+      "The Shema",
+      "The Kaddish",
+      "The K'nesset",
+      "The Kippah"
+    ],
+    "correct_answer_index": 1,
+    "probabilities": [
+      0.5886688597344581,
+      0.8016213925415516,
+      0.12201116628106856,
+      0.005395316066535928
+    ],
+    "loglikelihoods": [
+      0.5886688597344581,
+      0.8016213925415516,
+      0.12201116628106856,
+      0.005395316066535928
+    ],
+    "is_greedy": [
+      false,
+      true,
+      false,
+      false
+    ],
+    "predicted_index": 1,
+    "is_correct": true,
+    "actual_answer": "The most widely accepted and widely used Jewish prayer for mourning is the Kaddish, though the precise origins of its specific form are shrouded in mystery.  It\u2019s believed to have developed gradually over centuries, evolving from various practices and influenced by the\n\u0923\u093f\u0923\u093f\u0923\u093f\u0923\u093f\u0923\u093f\u0923\u093f\u0923\u093f\u0923\u093f\u0923\u093f\u0923\u093f\u0923\u093f\u0923\u093f\u0923\u093f",
+    "judge_answer": 2,
+    "entailment_score": 0.0016
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": "Krishna and Rama are incarnations of which Hindu god?",
+    "choices": [
+      "Shiva",
+      "Vishnu",
+      "Brahma",
+      "Ganesha"
+    ],
+    "correct_answer_index": 1,
+    "probabilities": [
+      0.7319926533578501,
+      0.38866814316069986,
+      0.41069919549549744,
+      0.02021056892306618
+    ],
+    "loglikelihoods": [
+      0.7319926533578501,
+      0.38866814316069986,
+      0.41069919549549744,
+      0.02021056892306618
+    ],
+    "is_greedy": [
+      true,
+      false,
+      false,
+      false
+    ],
+    "predicted_index": 0,
+    "is_correct": false,
+    "actual_answer": "Shiva",
+    "judge_answer": 1,
+    "entailment_score": 0.0276
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": " The kshatriyas is the caste name assigned to which group?",
+    "choices": [
+      "Priests",
+      "Servants",
+      "Rulers, warriors",
+      "Merchants"
+    ],
+    "correct_answer_index": 2,
+    "probabilities": [
+      0.17347918689320502,
+      0.009895682327416454,
+      0.012449509406385522,
+      0.000812024893326811
+    ],
+    "loglikelihoods": [
+      0.17347918689320502,
+      0.009895682327416454,
+      0.012449509406385522,
+      0.000812024893326811
+    ],
+    "is_greedy": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "predicted_index": 0,
+    "is_correct": false,
+    "actual_answer": "Warriors",
+    "judge_answer": 2,
+    "entailment_score": 0.8721
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": "When was the Old Babylonian version of Gilgamesh modified into the standard version?",
+    "choices": [
+      "Toward the end of the first millennium BCE",
+      "Towards the middle of the first millennium BCE",
+      "Toward the end of the second millennium BCE",
+      "Toward the middle of the second millennium BCE"
+    ],
+    "correct_answer_index": 2,
+    "probabilities": [
+      0.8086953148332282,
+      0.18876295839295928,
+      0.958958509322449,
+      0.51117997799432
+    ],
+    "loglikelihoods": [
+      0.8086953148332282,
+      0.18876295839295928,
+      0.958958509322449,
+      0.51117997799432
+    ],
+    "is_greedy": [
+      false,
+      false,
+      true,
+      false
+    ],
+    "predicted_index": 2,
+    "is_correct": true,
+    "actual_answer": "Toward the end of the second millennium BCE.",
+    "judge_answer": 3,
+    "entailment_score": 0.9938
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": " What is the meaning ofsamyak jnanawithin the Jaina traditions?",
+    "choices": [
+      "Correct knowledge",
+      "Correct practice",
+      "Correct intiution",
+      "Correct belief"
+    ],
+    "correct_answer_index": 2,
+    "probabilities": [
+      0.007127762519034641,
+      0.08535913314270521,
+      0.006531886137024391,
+      0.04935455990773176
+    ],
+    "loglikelihoods": [
+      0.007127762519034641,
+      0.08535913314270521,
+      0.006531886137024391,
+      0.04935455990773176
+    ],
+    "is_greedy": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "predicted_index": 1,
+    "is_correct": false,
+    "actual_answer": "The correct answer is **Correct practice**.\n\nIn Jain philosophy, Samyak Janana ( or Samyanjanas in some traditions ) refers to a state of complete and unwavering devotion to the teachings of the Buddha and the principles of non-violence and compassion, rather than simply intellectual understanding or mere adherence to doctrine. It",
+    "judge_answer": 1,
+    "entailment_score": 0.2563
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": " What type of Buddhist organization is the Bodu Bala Sena?",
+    "choices": [
+      "Activist and militant organization in Sri Lanka",
+      "Ecumenical organization in India",
+      "Modern organization in the United States",
+      "Peacekeeping organization in Japan"
+    ],
+    "correct_answer_index": 0,
+    "probabilities": [
+      0.8047683674708515,
+      0.40223171862667084,
+      0.5484424123265901,
+      0.6675048841774052
+    ],
+    "loglikelihoods": [
+      0.8047683674708515,
+      0.40223171862667084,
+      0.5484424123265901,
+      0.6675048841774052
+    ],
+    "is_greedy": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "predicted_index": 0,
+    "is_correct": true,
+    "actual_answer": "The Bodu Bala Sena is considered a militant organization in the United States, primarily due to its involvement in political activism and its historical association with certain militant groups. It\u2019s a complex and deeply controversial organization, often viewed by some as a legitimate representation of the Sinhalese Muslim community, while others view it as a terrorist group",
+    "judge_answer": 1,
+    "entailment_score": 0.0101
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": "Which mystic believed that evil was a distortion that reveals divine love more clearly?",
+    "choices": [
+      "Julian of Norwich",
+      "Catherine of Siena",
+      "Teresa of Avila",
+      "John of the Cross"
+    ],
+    "correct_answer_index": 0,
+    "probabilities": [
+      0.06298694518834068,
+      0.23937971322299428,
+      0.9818766609053108,
+      0.2428441509485653
+    ],
+    "loglikelihoods": [
+      0.06298694518834068,
+      0.23937971322299428,
+      0.9818766609053108,
+      0.2428441509485653
+    ],
+    "is_greedy": [
+      false,
+      false,
+      true,
+      false
+    ],
+    "predicted_index": 2,
+    "is_correct": false,
+    "actual_answer": "Teresa of Avila",
+    "judge_answer": 1,
+    "entailment_score": 0.01
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": "In the Jaina traditions \"bad karma\" is known by which of the following terms?",
+    "choices": [
+      "Paap",
+      "Punya",
+      "Pudgala",
+      "Akash"
+    ],
+    "correct_answer_index": 0,
+    "probabilities": [
+      0.07160642081915139,
+      0.5171968258219245,
+      0.23609416441037295,
+      0.046150655381669646
+    ],
+    "loglikelihoods": [
+      0.07160642081915139,
+      0.5171968258219245,
+      0.23609416441037295,
+      0.046150655381669646
+    ],
+    "is_greedy": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "predicted_index": 1,
+    "is_correct": false,
+    "actual_answer": "The correct answer is **Punya**.\n\nPunya is a Sanskrit word often used to describe a negative karmic debt or debt incurred by an individual, particularly in the context of the Jaina tradition\u2019s understanding of karma and rebirth. It\u2019s a nuanced concept, often linked to the concept of \u201cbad karma",
+    "judge_answer": 1,
+    "entailment_score": 0.0858
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": " During what Japanese festival do the spirits of deceased family members return to receive ritual offerings of food made by their loved ones?",
+    "choices": [
+      "Obon",
+      "Mikoshi",
+      "Omizutori",
+      "Tanabata"
+    ],
+    "correct_answer_index": 0,
+    "probabilities": [
+      0.8733765260281876,
+      0.09132289610247436,
+      0.1604231314665577,
+      0.19019991055306493
+    ],
+    "loglikelihoods": [
+      0.8733765260281876,
+      0.09132289610247436,
+      0.1604231314665577,
+      0.19019991055306493
+    ],
+    "is_greedy": [
+      true,
+      false,
+      false,
+      false
+    ],
+    "predicted_index": 0,
+    "is_correct": true,
+    "actual_answer": "Obon\n\n\u2026are offered to the gods. The festival\u2019s popularity quickly spread throughout Japan, attracting a wide range of people, including those seeking blessings for the upcoming year and those seeking to connect with their ancestors.  Its popularity quickly spread throughout Japan, and its popularity grew steadily, attracting a diverse audience.",
+    "judge_answer": 2,
+    "entailment_score": 0.1188
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": "What does \"Mahavira\" mean?",
+    "choices": [
+      "\"Great Hero\"",
+      "\"Master\"",
+      "\"The Lesser One\"",
+      "\"Mendicant\""
+    ],
+    "correct_answer_index": 0,
+    "probabilities": [
+      0.00683416550811587,
+      0.00019489609784669433,
+      0.0045437984778384875,
+      0.027181035949740254
+    ],
+    "loglikelihoods": [
+      0.00683416550811587,
+      0.00019489609784669433,
+      0.0045437984778384875,
+      0.027181035949740254
+    ],
+    "is_greedy": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "predicted_index": 3,
+    "is_correct": false,
+    "actual_answer": "The correct answer is **The Lesser One**.\n\nThe term \u201cMahavira\u201d is a complex and deeply contested concept, deeply intertwined with the understanding of the Hindu tradition and its interpretation of the Mahayana Buddhist teachings.  Its precise meaning has varied significantly across different traditions and over centuries, and its precise meaning remains a",
+    "judge_answer": 1,
+    "entailment_score": 0.0296
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": " What does the Tripitaka mean?",
+    "choices": [
+      "Three gems",
+      "Three baskets",
+      "Three bodhisattvas",
+      "Three buddhas"
+    ],
+    "correct_answer_index": 1,
+    "probabilities": [
+      0.00015026721353863083,
+      9.761396318983685e-05,
+      0.001955368357607704,
+      0.0002636249768724906
+    ],
+    "loglikelihoods": [
+      0.00015026721353863083,
+      9.761396318983685e-05,
+      0.001955368357607704,
+      0.0002636249768724906
+    ],
+    "is_greedy": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "predicted_index": 2,
+    "is_correct": false,
+    "actual_answer": "The three jewels of the Lotus Sutra, and also a common interpretation of the name of the Buddha himself, representing the three jewels of the lotus flower that he is said to have formed.\n...are believed to hold the teachings of the Buddha and are considered sacred objects, often depicted as white flowers or lotus flowers.",
+    "judge_answer": 1,
+    "entailment_score": 0.084
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": "Where is the largest network of Confucian shrines in the world?",
+    "choices": [
+      "Indonesia",
+      "China",
+      "Korea",
+      "Singapore"
+    ],
+    "correct_answer_index": 2,
+    "probabilities": [
+      0.9611712694168091,
+      0.004629910457879305,
+      3.360120899742469e-05,
+      0.00043348403414711356
+    ],
+    "loglikelihoods": [
+      0.9611712694168091,
+      0.004629910457879305,
+      3.360120899742469e-05,
+      0.00043348403414711356
+    ],
+    "is_greedy": [
+      true,
+      false,
+      false,
+      false
+    ],
+    "predicted_index": 0,
+    "is_correct": false,
+    "actual_answer": "Indonesia",
+    "judge_answer": 1,
+    "entailment_score": 0.0015
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": " Ghosa, Apala and Lopamurda, all named in the early Vedas, are which of the following?",
+    "choices": [
+      "Female princesses",
+      "Female warriors",
+      "Female goddesses",
+      "Female poets"
+    ],
+    "correct_answer_index": 3,
+    "probabilities": [
+      0.024915330703269126,
+      0.9482314845028514,
+      0.2501164349923845,
+      0.03122068015408171
+    ],
+    "loglikelihoods": [
+      0.024915330703269126,
+      0.9482314845028514,
+      0.2501164349923845,
+      0.03122068015408171
+    ],
+    "is_greedy": [
+      false,
+      true,
+      false,
+      false
+    ],
+    "predicted_index": 1,
+    "is_correct": false,
+    "actual_answer": "Female warriors",
+    "judge_answer": 1,
+    "entailment_score": 0.0055
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": " What is the title for the religious and administrative leaders who succeeded the Prophet?",
+    "choices": [
+      "Rasul",
+      "Nabi",
+      "Caliph",
+      "Mahdi"
+    ],
+    "correct_answer_index": 2,
+    "probabilities": [
+      0.052724349353719564,
+      0.0003105219779873562,
+      0.14057476476796232,
+      0.004335972074946104
+    ],
+    "loglikelihoods": [
+      0.052724349353719564,
+      0.0003105219779873562,
+      0.14057476476796232,
+      0.004335972074946104
+    ],
+    "is_greedy": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "predicted_index": 2,
+    "is_correct": true,
+    "actual_answer": "The correct answer is **Caliph**.\n\nHere\u2019s why:\n\n*   **Caliph** is a title traditionally used to denote the religious and political leaders of the early Islamic community, particularly in the context of the early Islamic state.  It\u2019s a relatively recent term, largely adopted during the Abbasid",
+    "judge_answer": 2,
+    "entailment_score": 0.1078
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": "Which of the following is NOT included in the Islamic understanding of jurisprudence?",
+    "choices": [
+      "Consensus",
+      "Personal reasoning",
+      "Interpretation",
+      "Divine inspiration"
+    ],
+    "correct_answer_index": 3,
+    "probabilities": [
+      0.02084074387908154,
+      0.13892689428117255,
+      0.7294673919677734,
+      0.02122724269641597
+    ],
+    "loglikelihoods": [
+      0.02084074387908154,
+      0.13892689428117255,
+      0.7294673919677734,
+      0.02122724269641597
+    ],
+    "is_greedy": [
+      false,
+      false,
+      true,
+      false
+    ],
+    "predicted_index": 2,
+    "is_correct": false,
+    "actual_answer": "Interpretation",
+    "judge_answer": 1,
+    "entailment_score": 0.2557
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": "Why is Mahavira a significant person in the Jaina traditions?",
+    "choices": [
+      "He is the last of the ascetic prophets.",
+      "He is the first of the ascetic prophets",
+      "He is the most learned of the ascetic prophets",
+      "He is the most holy of the ascetic prophets"
+    ],
+    "correct_answer_index": 0,
+    "probabilities": [
+      0.9806394857848578,
+      0.36713766539266623,
+      0.5152454770477111,
+      0.5914740180705645
+    ],
+    "loglikelihoods": [
+      0.9806394857848578,
+      0.36713766539266623,
+      0.5152454770477111,
+      0.5914740180705645
+    ],
+    "is_greedy": [
+      true,
+      false,
+      false,
+      false
+    ],
+    "predicted_index": 0,
+    "is_correct": true,
+    "actual_answer": "He is the last of the ascetic prophets.",
+    "judge_answer": 3,
+    "entailment_score": 0.9945
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": " The Tibetan Book of the Dead is also known as which of the following?",
+    "choices": [
+      "Bardo Thodol",
+      "Bardo Ngawang",
+      "Bardo Gyaltsen",
+      "Bardo Chogye"
+    ],
+    "correct_answer_index": 0,
+    "probabilities": [
+      0.9976675219076026,
+      0.24805290048988243,
+      0.253035303720683,
+      0.17331470254310033
+    ],
+    "loglikelihoods": [
+      0.9976675219076026,
+      0.24805290048988243,
+      0.253035303720683,
+      0.17331470254310033
+    ],
+    "is_greedy": [
+      true,
+      false,
+      false,
+      false
+    ],
+    "predicted_index": 0,
+    "is_correct": true,
+    "actual_answer": "Bardo Thodol",
+    "judge_answer": 3,
+    "entailment_score": 0.9836
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": " Which Hindu festival involves decorating the house with lights, setting off firecrackers and wearing new clothes?",
+    "choices": [
+      "Deepavali",
+      "Holi",
+      "Diwali",
+      "Navaratri"
+    ],
+    "correct_answer_index": 0,
+    "probabilities": [
+      0.8154275165359821,
+      0.012761269873364338,
+      0.5339526082295487,
+      0.055905540769960495
+    ],
+    "loglikelihoods": [
+      0.8154275165359821,
+      0.012761269873364338,
+      0.5339526082295487,
+      0.055905540769960495
+    ],
+    "is_greedy": [
+      true,
+      false,
+      false,
+      false
+    ],
+    "predicted_index": 0,
+    "is_correct": true,
+    "actual_answer": "Deepavali / Holi",
+    "judge_answer": 2,
+    "entailment_score": 0.0338
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": "What hours are set aside as the ambrosial hours for the Sikhs?",
+    "choices": [
+      "5\u20137 a.m.",
+      "9\u201311 p.m.",
+      "3\u20136 p.m.",
+      "3\u20136 a.m."
+    ],
+    "correct_answer_index": 3,
+    "probabilities": [
+      0.26561322640522667,
+      0.2107395386168982,
+      0.15284302348998682,
+      0.2230613206904117
+    ],
+    "loglikelihoods": [
+      0.26561322640522667,
+      0.2107395386168982,
+      0.15284302348998682,
+      0.2230613206904117
+    ],
+    "is_greedy": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "predicted_index": 0,
+    "is_correct": false,
+    "actual_answer": "...to the 6 a.m. ( 12:00 in the Hindu tradition ) or the 6 a.m. ( 12:00 in the Hindu tradition ) and the 6 a.m. ( 12:00 in the Muslim tradition ) , the Jewish",
+    "judge_answer": 1,
+    "entailment_score": 0.1292
+  },
+  {
+    "generation": 5,
+    "subject": "world_religions",
+    "question": " Self-sacrifice is an important theme for which Buddhist thinker?",
+    "choices": [
+      "Thich Nhat Hanh",
+      "The Dalai Lama",
+      "Daisetsu T. Suzuki",
+      "Shaku Soyen"
+    ],
+    "correct_answer_index": 0,
+    "probabilities": [
+      0.5893763137874602,
+      0.9728567020239216,
+      0.43448266394020696,
+      0.22535518640449487
+    ],
+    "loglikelihoods": [
+      0.5893763137874602,
+      0.9728567020239216,
+      0.43448266394020696,
+      0.22535518640449487
+    ],
+    "is_greedy": [
+      false,
+      true,
+      false,
+      false
+    ],
+    "predicted_index": 1,
+    "is_correct": false,
+    "actual_answer": "The Dalai Lama\n\n\u2026is a central concept in Buddhist practice and practice. It\u2019s a deeply ingrained principle, deeply intertwined with the Buddhist understanding of compassion and interconnectedness. It\u2019s often interpreted as a profound, almost unsettling, gesture of surrender to a higher power, a recognition of the inherent suffering inherent in existence",
+    "judge_answer": 1,
+    "entailment_score": 0.0947
+  }
+]
